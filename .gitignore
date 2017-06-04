@@ -1,3 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea
 /DoubanDemo.iml
+src/main/resources/
+target/generated-sources/
+target/generated-test-sources/
